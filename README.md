@@ -7,16 +7,15 @@ Welcome to my GitHub! I’m dedicated to using technology to make an impact, wit
 ---
 
 ## 🔧 Skills & Technologies
-- **Languages**: Python, PHP, HTML, CSS, JavaScript, C, C++
+- **Languages**: Python, Java, HTML, CSS, JavaScript, PHP, C, C++
 - **IoT**: Experience developing of many IoT projects 
 - **Databases**: SQLite and basic SQL for web applications
 - **Frameworks**: Working knowledge of front-end and back-end web technologies
 
 ---
 
-## 🌟 Current Projects
-### 1. **Smart Medicine Box** 🩺
-   - **Description**: An IoT-based medicine box for tuberculosis patients to assist in medication adherence. Features include alarm notifications, scheduling, and tracking via a web app.
+## 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zahrazakila&show_icons=true&theme=radical" alt="zahrazakila GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrazakila&theme=radical" alt="zahrazakila GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrazakila&layout=compact&theme=radical" alt="zahrazakila Top Languages" /> </p>
 
 ---
 
@@ -29,6 +28,8 @@ Welcome to my GitHub! I’m dedicated to using technology to make an impact, wit
 ## 📫 Connect with Me
 - **GitHub**: [zahrazakila](https://github.com/zahrazakila)
 - **LinkedIn**: [zahrazakila](https://www.linkedin.com/in/zahrazakila/)
-- **Email**: [zahrazakila](zahrazakila59@gmail.com)
+- **Email**: [zahrazakila59@gmail.com](zahrazakila59@gmail.com)
 
 Let’s build something amazing together! 🚀
+
+---
