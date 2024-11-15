@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m dedicated to using technology to make an impact, wit
 ## 📊 GitHub Stats
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=zahrazakila&show_icons=true&theme=radical" alt="zahrazakila GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrazakila&theme=default" alt="zahrazakila GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrazakila&theme=radical" alt="zahrazakila GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrazakila&layout=compact&theme=radical" alt="zahrazakila Top Languages" />
 </p>
 
