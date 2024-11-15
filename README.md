@@ -13,21 +13,22 @@ Welcome to my GitHub! I’m dedicated to using technology to make an impact, wit
 - **Frameworks**: Working knowledge of front-end and back-end web technologies
 
 ---
-
-## 📊 GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=zahrazakila&show_icons=true&theme=radical" alt="zahrazakila GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrazakila&theme=radical" alt="zahrazakila GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrazakila&layout=compact&theme=radical" alt="zahrazakila Top Languages" />
-</p>
-
----
-
 ## 🚀 Interests
 - **Healthcare Technology**: Creating tech solutions that support healthcare access and patient care.
 - **Community Building**: Leading projects that bring people together and promote tech education for women.
 
 ---
+
+## 📊 GitHub Stats
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=zahrazakila&show_icons=true&theme=radical" alt="zahrazakila GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrazakila&theme=radical&cache_seconds=86400" alt="zahrazakila GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrazakila&layout=compact&theme=radical" alt="zahrazakila Top Languages" />
+</p>
+
+---
+
+
 
 ## 📫 Connect with Me
 - **GitHub**: [zahrazakila](https://github.com/zahrazakila)
