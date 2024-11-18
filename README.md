@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m dedicated to using technology to make an impact, wit
 ---
 
 ## 🔧 Skills & Technologies
-- **Languages**: Python, Java, HTML, CSS, JavaScript, PHP, C, C++
+- **Languages**: Python, HTML, CSS, JavaScript, PHP, C, C++
 - **IoT**: Experience developing of many IoT projects 
 - **Databases**: SQLite and basic SQL for web applications
 - **Frameworks**: Working knowledge of front-end and back-end web technologies
